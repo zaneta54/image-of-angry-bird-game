@@ -1,2 +1,2 @@
-# image-of-angry-bird-game
-uploaded the images and used inheritance 
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
